@@ -1,0 +1,37 @@
+se
+
+id1=X ou O
+id2=X ou O   => vitoria
+id3=X ou O
+
+id4=X ou O
+id5=X ou O   => vitoria
+id6=X ou O
+
+id7=X ou O
+id8=X ou O   => vitoria
+id9=X ou O
+
+id1=X ou O
+id4=X ou O   => vitoria
+id7=X ou O
+
+id2=X ou O
+id5=X ou O   => vitoria
+id8=X ou O
+
+id3=X ou O
+id6=X ou O   => vitoria
+id9=X ou O
+
+id1=X ou O
+id5=X ou O   => vitoria
+id9=X ou O
+
+id3=X ou O 
+id5=X ou O   => vitoria
+id7=X ou O
+
+senão
+
+deu velha
